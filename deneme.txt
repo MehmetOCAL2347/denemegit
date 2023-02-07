@@ -1,0 +1,5 @@
+Deneme yazımızı oluşturuyoruz
+bundan sonra gerekli düzenlemeleri terminal üzerinden yapabilirizzzzzz
+terminal kullanımı için ilk önce vi deneme.txt yazdık
+sonra esc basarak : koyduk
+sonra wq yazarask save ve close işlemi gerçekleştirdik
