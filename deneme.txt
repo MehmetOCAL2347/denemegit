@@ -6,3 +6,4 @@ sonra wq yazarask save ve close işlemi gerçekleştirdik
 Bu satır deneme branchi ile yazıldı.
 Eğer bir değişikliği commit etmeden tekrar eski haline dönmek istersek git restore file_name ile dönüş sağlayabiliriz
 burdaki değişikliklerde son dakika yapıldı.
+push ederken de yine aynı şekilde farklı branch kullanımını görmek istedim. Bu sebeple bu satır oluşturuldu.
